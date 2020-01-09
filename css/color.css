@@ -1,0 +1,33 @@
+.btn-login,.sehati__nav ul.navbar-nav .nav-link,.slider-para{
+    color: #fff;
+}
+.btn:hover {
+    color: #fff;
+}
+.welcome__msg {
+    color: #666;
+}
+.t500 {
+    color: #777;
+}
+a:hover{
+    color:  #14b1bf;
+}
+.news_h {
+    color: #caa943;
+}
+.btn-login,.news__date h3:nth-child(2) {
+    background: #14b1bf;
+}
+.top__header {
+    background: #f5f6fa;
+}
+.sehati__nav ul.navbar-nav {
+    background: #00747e;
+}
+.news__date h3:nth-child(1) {
+    background: #363636;
+}
+.partner__img {
+    background: #fff;
+}
